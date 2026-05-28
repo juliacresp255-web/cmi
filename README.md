@@ -138,7 +138,7 @@ Como mejoras futuras me gustaría pulir el menú de pausa para que funcione de f
 <img width="1097" height="864" alt="IMG_5843" src="https://github.com/user-attachments/assets/9302f12e-25f4-4d02-a95d-7b2b5083bed4" />
 <img width="3362" height="4962" alt="IMG_2227" src="https://github.com/user-attachments/assets/b56ad2a9-cb1c-44df-8066-dc962d7eeda5" />
 <img width="3492" height="4424" alt="IMG_4937" src="https://github.com/user-attachments/assets/a5b68eae-af84-44f0-84f2-a667dedfc8bd" />
-<img width="1344" height="768" alt="IMG_6606" src="https://github.com/user-attachments/assets/31bec321-29f5-4316-8d33-eccf35a819b8" />
+<img width="1161" height="768" alt="IMG_6606" src="https://github.com/user-attachments/assets/2ef13fce-af1c-4a48-a5dc-8d9701f5c48e" />
 <img width="2594" height="3495" alt="IMG_1428" src="https://github.com/user-attachments/assets/5c17f849-df57-4f7d-8cb4-ac6867b0227a" />
 <img width="4431" height="3456" alt="IMG_4762" src="https://github.com/user-attachments/assets/081d56b2-4ef4-4af5-8c00-c34e48011bff" />
 <img width="2152" height="3049" alt="IMG_0717" src="https://github.com/user-attachments/assets/aaeaeadf-3607-4157-a61b-529eef942a69" />

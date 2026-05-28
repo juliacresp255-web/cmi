@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+
 
 El lienzo de Julia
 

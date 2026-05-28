@@ -42,9 +42,6 @@
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
 
 ### 2.2. Esquema de navegación 
 

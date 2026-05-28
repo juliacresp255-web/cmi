@@ -10,7 +10,7 @@ El lienzo de Julia
 
 **Titulo** : El lienzo de Julia
 
-**Web:**   (url github.io)
+**Web:**   https://github.com/juliacresp255-web/cmi/blob/master/README.md
 
 **Autor:**  Julia Crespí Sanz 
 

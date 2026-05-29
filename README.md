@@ -40,14 +40,12 @@
 
 ### 2.1 Storyboard: 
 
+<img width="2732" height="2048" alt="image" src="https://github.com/user-attachments/assets/7ee79c5c-47d6-4859-81c7-677438cb3870" />
 
+### 2.2. Esquema de navegación
 
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+<img width="2732" height="2048" alt="image" src="https://github.com/user-attachments/assets/209d140f-9229-4631-ae6b-dc3bed05f67f" />
+(
 
 
 
